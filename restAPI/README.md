@@ -4,7 +4,7 @@ Install Python dependencies
 
 1. Run Pip3 install django
 2. run pip3 install django-rest-framework
-3. run pip3 install django-rest-know
+3. run pip3 install django-rest-knox
 
 # To Run the project
 
